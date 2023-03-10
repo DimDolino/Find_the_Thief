@@ -1,6 +1,4 @@
-# Find_the_Thief
-## Поиск мошенников через датафрейм
-## Автор: <a href="https://github.com/DimDolino/" target="_blank">DimDolino</a>
+# Поиск мошенников через данные
 ## Проект направлен на анализ "условной" базы клиентов продукта финтеха
 ## В работе использован следующий стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
